@@ -1,6 +1,6 @@
 ## 📘 CS-10B
 
-This repository contains materials, assignments, and code related to the **CS-10A** course.
+This repository contains materials, assignments, and code related to the **CS-10B** course.
 
 ### 📂 Contents
 - Source code examples
