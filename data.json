@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Smith",
+      "age": 21
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "name": "James",
+      "age": 20
+    },
+    {
+      "id": 4,
+      "name": "Amelia",
+      "age": 19
+    }
+  ],
+  "admins": [
+    {
+      "id": 4,
+      "name": "Katya",
+      "age": 21
+    },
+    {
+      "id": 5,
+      "name": "Robert",
+      "age": 21
+    }
+  ]
+}
