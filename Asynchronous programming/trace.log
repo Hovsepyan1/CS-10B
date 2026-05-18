@@ -1,0 +1,6 @@
+2026-05-12 14:30:01 [INFO] User 'admin' logged in successfully. 
+2026-05-12 14:30:15 [DEBUG] Connecting to database at 10.0.0.5... 
+2026-05-12 14:30:16 [ERROR] Database connection failed: Timeout reached. 
+2026-05-12 14:30:20 [WARN] Memory usage is above 80%. 
+2026-05-12 14:30:25 [ERROR] NullReferenceException at Service.cs:line 42. 
+2026-05-12 14:30:30 [INFO] Background worker started.
